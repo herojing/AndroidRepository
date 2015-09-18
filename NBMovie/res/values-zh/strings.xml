@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">牛逼电影</string>
+    <string name="language">中文</string>
+    <string name="movie_datail">电影详情</string>
+    <string name="release_date">更新日期</string>
+    <string name="revenue">收益</string>
+    <string name="original_title">原始标题</string>
+    <string name="vote_average">平均分</string>
+    <string name="vote_count">投票</string>
+    <string name="popularity">流行</string>
+    <string name="favorite">收藏</string>
+</resources>

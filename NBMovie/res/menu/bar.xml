@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/language_setting"
+            android:icon="@drawable/language"
+            android:showAsAction="always|withText"
+            android:title="@string/language"
+            />
+    <item
+            android:id="@+id/popularity"
+            android:icon="@drawable/menu3"
+            android:showAsAction="never|withText"
+            android:title="@string/popularity"
+            />
+    <item
+            android:id="@+id/release_date"
+            android:icon="@drawable/menu2"
+            android:showAsAction="never|withText"
+            android:title="@string/release_date"
+            />
+    <item
+            android:id="@+id/vote_average"
+            android:icon="@drawable/menu3"
+            android:showAsAction="never|withText"
+            android:title="@string/vote_average"
+            />
+    <item
+            android:id="@+id/vote_count"
+            android:icon="@drawable/menu4"
+            android:showAsAction="never|withText"
+            android:title="@string/vote_count"
+            />
+
+    <item
+            android:id="@+id/movie_datail"
+            android:icon="@drawable/menu4"
+            android:showAsAction="never|withText"
+            android:title="@string/movie_datail"
+            />
+
+    <item
+            android:id="@+id/original_title"
+            android:icon="@drawable/menu5"
+            android:showAsAction="never|withText"
+            android:title="@string/original_title"
+            />
+
+    <item
+            android:id="@+id/revenue"
+            android:icon="@drawable/menu6"
+            android:showAsAction="never|withText"
+            android:title="@string/revenue"
+            />
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NBMovie</string>
+    <string name="movie_datail">Movie Detail</string>
+    <string name="language">English</string>
+    <string name="release_date">releaseDate</string>
+    <string name="revenue">revenue</string>
+    <string name="original_title">originalTitle</string>
+    <string name="vote_average">voteAverage</string>
+    <string name="vote_count">voteCount</string>
+    <string name="popularity">popularity</string>
+    <string name="favorite">favorite</string>
+</resources>
