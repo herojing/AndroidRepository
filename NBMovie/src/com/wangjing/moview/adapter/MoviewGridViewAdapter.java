@@ -24,13 +24,6 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by wangjing on 2015/9/4at21:10.
- * <p/>
- * Email:wjontheway@163.com
- * <p/>
- * NBMovie
- */
 public class MoviewGridViewAdapter extends BaseAdapter implements AdapterView.OnItemClickListener {
     private ImageLoader imageLoader;
     private DisplayImageOptions options;
